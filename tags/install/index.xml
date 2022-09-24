@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>install on El blog de Aldair</title>
+    <link>https://aldair.com.mx/tags/install/</link>
+    <description>Recent content in install on El blog de Aldair</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Aldair</copyright>
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://aldair.com.mx/tags/install/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalar XAMPP en Solus 4.3</title>
+      <link>https://aldair.com.mx/2020/02/instalar-xampp-en-solus-4.3/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aldair.com.mx/2020/02/instalar-xampp-en-solus-4.3/</guid>
+      <description>Solus es una distribución de Linux fantástica: Si bien no tiene tantos paquetes en sus repositorios, es tremendamente rápida (aún mas que Manjaro a mi parecer), además de muy atractiva debido a Budgie.
+Sin embargo, en ocasiones puede ser un dolor de cabeza lidiar con Solus, debido a lo “artesanal” y exótico de la distribución.
+Una de esas cosas que en otras distribuciones es simple de hacer, pero requiere pasos adicionales en Solus, es instalar XAMPP.</description>
+    </item>
+    
+  </channel>
+</rss>
