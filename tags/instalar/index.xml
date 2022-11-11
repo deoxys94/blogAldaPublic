@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>instalar on El blog de Aldair</title>
-    <link>https://example.org/tags/instalar/</link>
+    <link>https://aldair.com.mx/tags/instalar/</link>
     <description>Recent content in instalar on El blog de Aldair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/instalar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://aldair.com.mx/tags/instalar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Instalar XAMPP en Solus 4.3</title>
-      <link>https://example.org/2020/02/instalar-xampp-en-solus-4.3/</link>
+      <link>https://aldair.com.mx/2020/02/instalar-xampp-en-solus-4.3/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2020/02/instalar-xampp-en-solus-4.3/</guid>
+      <guid>https://aldair.com.mx/2020/02/instalar-xampp-en-solus-4.3/</guid>
       <description>Solus es una distribución de Linux fantástica: Si bien no tiene tantos paquetes en sus repositorios, es tremendamente rápida (aún mas que Manjaro a mi parecer), además de muy atractiva debido a Budgie.
 Sin embargo, en ocasiones puede ser un dolor de cabeza lidiar con Solus, debido a lo “artesanal” y exótico de la distribución.
 Una de esas cosas que en otras distribuciones es simple de hacer, pero requiere pasos adicionales en Solus, es instalar XAMPP.</description>

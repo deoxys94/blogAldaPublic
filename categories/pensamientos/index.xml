@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pensamientos on El blog de Aldair</title>
-    <link>https://example.org/categories/pensamientos/</link>
+    <link>https://aldair.com.mx/categories/pensamientos/</link>
     <description>Recent content in Pensamientos on El blog de Aldair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/pensamientos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://aldair.com.mx/categories/pensamientos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>En el hospital</title>
-      <link>https://example.org/2020/03/en-el-hospital/</link>
+      <link>https://aldair.com.mx/2020/03/en-el-hospital/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2020/03/en-el-hospital/</guid>
+      <guid>https://aldair.com.mx/2020/03/en-el-hospital/</guid>
       <description>En la sala de emergencias de un hospital en Taiwán:
  醫生：你是哪國人？
 我： 我是墨西哥人
@@ -27,10 +27,10 @@ Yo: Si 😅
     
     <item>
       <title>Compras de panico</title>
-      <link>https://example.org/2020/02/compras-de-panico/</link>
+      <link>https://aldair.com.mx/2020/02/compras-de-panico/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2020/02/compras-de-panico/</guid>
+      <guid>https://aldair.com.mx/2020/02/compras-de-panico/</guid>
       <description>Era cuestión de tiempo, sobre todo considerando que no hay ningún tipo de control en los aeropuertos: El coronavirus (SARS-CoV-19) “llegó” a México. Y, tal y como ocurrió hace 11 años con la influenza, los cubrebocas fueron las primeras “víctimas” del coronavirus en el país.
 Pero hay algo que me llama la atención en todo esto: Semanas antes que se confirmaran los primeros casos de la enfermedad en territorio nacional, dándose una vuelta por Mercado Libre o Amazon, era posible ver mensajes como estos:</description>
     </item>

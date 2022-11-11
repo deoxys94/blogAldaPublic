@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on El blog de Aldair</title>
-    <link>https://example.org/categories/</link>
+    <link>https://aldair.com.mx/categories/</link>
     <description>Recent content in Categories on El blog de Aldair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aldair.com.mx/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fotografía</title>
-      <link>https://example.org/categories/fotograf%C3%ADa/</link>
+      <link>https://aldair.com.mx/categories/fotograf%C3%ADa/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/fotograf%C3%ADa/</guid>
+      <guid>https://aldair.com.mx/categories/fotograf%C3%ADa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Música</title>
-      <link>https://example.org/categories/m%C3%BAsica/</link>
+      <link>https://aldair.com.mx/categories/m%C3%BAsica/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/m%C3%BAsica/</guid>
+      <guid>https://aldair.com.mx/categories/m%C3%BAsica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Idiomas</title>
-      <link>https://example.org/categories/idiomas/</link>
+      <link>https://aldair.com.mx/categories/idiomas/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/idiomas/</guid>
+      <guid>https://aldair.com.mx/categories/idiomas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mandarín</title>
-      <link>https://example.org/categories/mandar%C3%ADn/</link>
+      <link>https://aldair.com.mx/categories/mandar%C3%ADn/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/mandar%C3%ADn/</guid>
+      <guid>https://aldair.com.mx/categories/mandar%C3%ADn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Informatica</title>
-      <link>https://example.org/categories/informatica/</link>
+      <link>https://aldair.com.mx/categories/informatica/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/informatica/</guid>
+      <guid>https://aldair.com.mx/categories/informatica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pensamientos</title>
-      <link>https://example.org/categories/pensamientos/</link>
+      <link>https://aldair.com.mx/categories/pensamientos/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/pensamientos/</guid>
+      <guid>https://aldair.com.mx/categories/pensamientos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Taiwan</title>
-      <link>https://example.org/categories/taiwan/</link>
+      <link>https://aldair.com.mx/categories/taiwan/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/taiwan/</guid>
+      <guid>https://aldair.com.mx/categories/taiwan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://example.org/categories/linux/</link>
+      <link>https://aldair.com.mx/categories/linux/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/linux/</guid>
+      <guid>https://aldair.com.mx/categories/linux/</guid>
       <description></description>
     </item>
     

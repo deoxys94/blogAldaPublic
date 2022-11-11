@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>doctor on El blog de Aldair</title>
-    <link>https://example.org/tags/doctor/</link>
+    <link>https://aldair.com.mx/tags/doctor/</link>
     <description>Recent content in doctor on El blog de Aldair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/doctor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://aldair.com.mx/tags/doctor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>En el hospital</title>
-      <link>https://example.org/2020/03/en-el-hospital/</link>
+      <link>https://aldair.com.mx/2020/03/en-el-hospital/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2020/03/en-el-hospital/</guid>
+      <guid>https://aldair.com.mx/2020/03/en-el-hospital/</guid>
       <description>En la sala de emergencias de un hospital en Taiwán:
  醫生：你是哪國人？
 我： 我是墨西哥人
