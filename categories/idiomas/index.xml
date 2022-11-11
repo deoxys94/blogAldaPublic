@@ -2,37 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Idiomas on El blog de Aldair</title>
-    <link>https://aldair.com.mx/categories/idiomas/</link>
+    <link>https://example.org/categories/idiomas/</link>
     <description>Recent content in Idiomas on El blog de Aldair</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Aldair</copyright>
-    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://aldair.com.mx/categories/idiomas/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-mx</language>
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/idiomas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Complementos de dirección en mandarín</title>
-      <link>https://aldair.com.mx/2021/07/complementos-de-direcci%C3%B3n-en-mandar%C3%ADn/</link>
+      <link>https://example.org/2021/07/complementos-de-direcci%C3%B3n-en-mandar%C3%ADn/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/2021/07/complementos-de-direcci%C3%B3n-en-mandar%C3%ADn/</guid>
+      <guid>https://example.org/2021/07/complementos-de-direcci%C3%B3n-en-mandar%C3%ADn/</guid>
       <description>Si bien es cierto que verbos como 去 o 來 ya tienen incluida cierta noción de dirección, al usar verbos que hacen referencia a movimientos es necesario especificar si el movimiento se dirige o aleja de quien está hablando y hacia que dirección se da el movimiento. Todo esto se indica con verbos que dan lugar a las estructuras V1V2 y V1V2V3. Este tipo de expresiones son ajenas a hablantes de lenguas como el español, sin embargo, con practica las mismas se vuelven intuitivas.</description>
     </item>
     
     <item>
       <title>En el hospital</title>
-      <link>https://aldair.com.mx/2020/03/en-el-hospital/</link>
+      <link>https://example.org/2020/03/en-el-hospital/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/2020/03/en-el-hospital/</guid>
+      <guid>https://example.org/2020/03/en-el-hospital/</guid>
       <description>En la sala de emergencias de un hospital en Taiwán:
-醫生：你是哪國人？
+ 醫生：你是哪國人？
 我： 我是墨西哥人
 醫生：真的嗎？你知道可可夜總會嗎？
 我：知道啊😅
-Doctor: ¿De donde eres?
+  Doctor: ¿De donde eres?
 Yo: Soy mexicano
 Doctor: ¿En serio? ¿Conoces coco?😮
 Yo: Si 😅
-Sin duda una de los interrogatorios más inesperados que haya tenido con un médico.</description>
+ Sin duda una de los interrogatorios más inesperados que haya tenido con un médico.</description>
     </item>
     
   </channel>

@@ -2,31 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mandarín on El blog de Aldair</title>
-    <link>https://aldair.com.mx/categories/mandar%C3%ADn/</link>
+    <link>https://example.org/categories/mandar%C3%ADn/</link>
     <description>Recent content in Mandarín on El blog de Aldair</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Aldair</copyright>
-    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://aldair.com.mx/categories/mandar%C3%ADn/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-mx</language>
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/mandar%C3%ADn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Complementos de dirección en mandarín</title>
-      <link>https://aldair.com.mx/2021/07/complementos-de-direcci%C3%B3n-en-mandar%C3%ADn/</link>
+      <link>https://example.org/2021/07/complementos-de-direcci%C3%B3n-en-mandar%C3%ADn/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/2021/07/complementos-de-direcci%C3%B3n-en-mandar%C3%ADn/</guid>
+      <guid>https://example.org/2021/07/complementos-de-direcci%C3%B3n-en-mandar%C3%ADn/</guid>
       <description>Si bien es cierto que verbos como 去 o 來 ya tienen incluida cierta noción de dirección, al usar verbos que hacen referencia a movimientos es necesario especificar si el movimiento se dirige o aleja de quien está hablando y hacia que dirección se da el movimiento. Todo esto se indica con verbos que dan lugar a las estructuras V1V2 y V1V2V3. Este tipo de expresiones son ajenas a hablantes de lenguas como el español, sin embargo, con practica las mismas se vuelven intuitivas.</description>
     </item>
     
     <item>
       <title>Los distintos significados del complemento “xiàlai” en mandarín</title>
-      <link>https://aldair.com.mx/2021/07/los-distintos-significados-del-complemento-xi%C3%A0lai-en-mandar%C3%ADn/</link>
+      <link>https://example.org/2021/07/los-distintos-significados-del-complemento-xi%C3%A0lai-en-mandar%C3%ADn/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/2021/07/los-distintos-significados-del-complemento-xi%C3%A0lai-en-mandar%C3%ADn/</guid>
+      <guid>https://example.org/2021/07/los-distintos-significados-del-complemento-xi%C3%A0lai-en-mandar%C3%ADn/</guid>
       <description>El complemento verbal 下來 es un complemento sumamente versátil dentro del mandarín. Además de expresar movimiento, puede ser usado de otras maneras no tan intuitivas para quienes aprenden el idioma. En esta entrada, explicaré un poco sobre tres de los posibles usos de este complemento.
-Estructura Verbo + 下來
-Como otros complementos verbales en mandarín, 下來 puede ser usado tanto en su forma real, como en su forma potencial:
-Forma real Forma Potencial Afirmativo Verbo + 下來 + (了) Verbo + 得 + 下來 Negativo 沒 + Verbo + 下來 Verbo + 不 + 下來 Usos Complemento de dirección 下來 (en conjunto con verbos como 走、跑、站、拿、etc.</description>
+Estructura  Verbo + 下來
+ Como otros complementos verbales en mandarín, 下來 puede ser usado tanto en su forma real, como en su forma potencial:</description>
     </item>
     
   </channel>

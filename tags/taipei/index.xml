@@ -2,18 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>taipei on El blog de Aldair</title>
-    <link>https://aldair.com.mx/tags/taipei/</link>
+    <link>https://example.org/tags/taipei/</link>
     <description>Recent content in taipei on El blog de Aldair</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Aldair</copyright>
-    <lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aldair.com.mx/tags/taipei/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-mx</language>
+    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/taipei/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creatividad taiwanesa (1)</title>
+      <link>https://example.org/2022/09/creatividad-taiwanesa-1/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/09/creatividad-taiwanesa-1/</guid>
+      <description>En Taipei es relativamente común ver taxis que tienen puertas automáticas que pueden fallar si se abren manualmente. Debido a eso, quienes poseen taxis así han buscado formas para hacerle saber a los pasajeros que no deben intentar abrir el taxi desde afuera.
+😂</description>
+    </item>
+    
     <item>
       <title>Atardeceres Taiwaneses</title>
-      <link>https://aldair.com.mx/2022/09/atardeceres-taiwaneses/</link>
+      <link>https://example.org/2022/09/atardeceres-taiwaneses/</link>
       <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/2022/09/atardeceres-taiwaneses/</guid>
+      <guid>https://example.org/2022/09/atardeceres-taiwaneses/</guid>
       <description>Uno de los beneficios de trabajar en un edificio de mas de 10 pisos es poder ver los atardeceres sin ningún tipo de obstáculo. Sin lugar a dudas, los atardeceres en Taiwán son muy hermosos.</description>
     </item>
     

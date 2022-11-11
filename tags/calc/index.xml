@@ -2,18 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>calc on El blog de Aldair</title>
-    <link>https://aldair.com.mx/tags/calc/</link>
+    <link>https://example.org/tags/calc/</link>
     <description>Recent content in calc on El blog de Aldair</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Aldair</copyright>
-    <lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://aldair.com.mx/tags/calc/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-mx</language>
+    <lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/calc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Listas desplegables y listas desplegables condicionales (dependientes) en LibreOffice Calc</title>
-      <link>https://aldair.com.mx/2020/11/listas-desplegables-y-listas-desplegables-condicionales-dependientes-en-libreoffice-calc/</link>
+      <link>https://example.org/2020/11/listas-desplegables-y-listas-desplegables-condicionales-dependientes-en-libreoffice-calc/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/2020/11/listas-desplegables-y-listas-desplegables-condicionales-dependientes-en-libreoffice-calc/</guid>
+      <guid>https://example.org/2020/11/listas-desplegables-y-listas-desplegables-condicionales-dependientes-en-libreoffice-calc/</guid>
       <description>Debido a que recientemente he tenido bastante tiempo libre, empecé a tomar un curso de hojas de cálculo con Excel (Bastante útil, por cierto). Como sabrán algunos, soy un gran entusiasta del software libre, por lo que decidí hacer todos los contenidos del curso usando LibreOffice en lugar de Microsoft Office.
 Si bien es verdad que en Calc se pueden hacer (casi) todas las cosas que uno puede hacer en Excel, en ocasiones se requieren pasos adicionales, entrar a menús con nombre distinto al de excel, y cosas por el estilo, además de que en ocasiones la documentación y tutoriales disponibles no están del todo claros.</description>
     </item>

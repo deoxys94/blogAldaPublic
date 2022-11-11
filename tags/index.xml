@@ -2,567 +2,575 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on El blog de Aldair</title>
-    <link>https://aldair.com.mx/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on El blog de Aldair</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Aldair</copyright>
-    <lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aldair.com.mx/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-mx</language>
+    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ninja</title>
+      <link>https://example.org/tags/ninja/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/ninja/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>taipei</title>
-      <link>https://aldair.com.mx/tags/taipei/</link>
-      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <link>https://example.org/tags/taipei/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/taipei/</guid>
+      <guid>https://example.org/tags/taipei/</guid>
       <description></description>
     </item>
     
     <item>
       <title>taiwan</title>
-      <link>https://aldair.com.mx/tags/taiwan/</link>
-      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <link>https://example.org/tags/taiwan/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/taiwan/</guid>
+      <guid>https://example.org/tags/taiwan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>taxi</title>
+      <link>https://example.org/tags/taxi/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/taxi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>español</title>
-      <link>https://aldair.com.mx/tags/espa%C3%B1ol/</link>
+      <link>https://example.org/tags/espa%C3%B1ol/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/espa%C3%B1ol/</guid>
+      <guid>https://example.org/tags/espa%C3%B1ol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hanabi</title>
-      <link>https://aldair.com.mx/tags/hanabi/</link>
+      <link>https://example.org/tags/hanabi/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/hanabi/</guid>
+      <guid>https://example.org/tags/hanabi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>letra</title>
-      <link>https://aldair.com.mx/tags/letra/</link>
+      <link>https://example.org/tags/letra/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/letra/</guid>
+      <guid>https://example.org/tags/letra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lyrics</title>
-      <link>https://aldair.com.mx/tags/lyrics/</link>
+      <link>https://example.org/tags/lyrics/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/lyrics/</guid>
+      <guid>https://example.org/tags/lyrics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>senkou</title>
-      <link>https://aldair.com.mx/tags/senkou/</link>
+      <link>https://example.org/tags/senkou/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/senkou/</guid>
+      <guid>https://example.org/tags/senkou/</guid>
       <description></description>
     </item>
     
     <item>
       <title>senkouhanabi</title>
-      <link>https://aldair.com.mx/tags/senkouhanabi/</link>
+      <link>https://example.org/tags/senkouhanabi/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/senkouhanabi/</guid>
+      <guid>https://example.org/tags/senkouhanabi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>snooty</title>
-      <link>https://aldair.com.mx/tags/snooty/</link>
+      <link>https://example.org/tags/snooty/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/snooty/</guid>
+      <guid>https://example.org/tags/snooty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>traducción</title>
-      <link>https://aldair.com.mx/tags/traducci%C3%B3n/</link>
+      <link>https://example.org/tags/traducci%C3%B3n/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/traducci%C3%B3n/</guid>
+      <guid>https://example.org/tags/traducci%C3%B3n/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kaohsiung</title>
-      <link>https://aldair.com.mx/tags/kaohsiung/</link>
+      <link>https://example.org/tags/kaohsiung/</link>
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/kaohsiung/</guid>
+      <guid>https://example.org/tags/kaohsiung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chino</title>
-      <link>https://aldair.com.mx/tags/chino/</link>
+      <link>https://example.org/tags/chino/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/chino/</guid>
+      <guid>https://example.org/tags/chino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>complemento</title>
-      <link>https://aldair.com.mx/tags/complemento/</link>
+      <link>https://example.org/tags/complemento/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/complemento/</guid>
+      <guid>https://example.org/tags/complemento/</guid>
       <description></description>
     </item>
     
     <item>
       <title>complementos de direcion</title>
-      <link>https://aldair.com.mx/tags/complementos-de-direcion/</link>
+      <link>https://example.org/tags/complementos-de-direcion/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/complementos-de-direcion/</guid>
+      <guid>https://example.org/tags/complementos-de-direcion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>construcciones</title>
-      <link>https://aldair.com.mx/tags/construcciones/</link>
+      <link>https://example.org/tags/construcciones/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/construcciones/</guid>
+      <guid>https://example.org/tags/construcciones/</guid>
       <description></description>
     </item>
     
     <item>
       <title>direccion</title>
-      <link>https://aldair.com.mx/tags/direccion/</link>
+      <link>https://example.org/tags/direccion/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/direccion/</guid>
+      <guid>https://example.org/tags/direccion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>direccionales</title>
-      <link>https://aldair.com.mx/tags/direccionales/</link>
+      <link>https://example.org/tags/direccionales/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/direccionales/</guid>
+      <guid>https://example.org/tags/direccionales/</guid>
       <description></description>
     </item>
     
     <item>
       <title>direction complement</title>
-      <link>https://aldair.com.mx/tags/direction-complement/</link>
+      <link>https://example.org/tags/direction-complement/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/direction-complement/</guid>
+      <guid>https://example.org/tags/direction-complement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>directional constructions</title>
-      <link>https://aldair.com.mx/tags/directional-constructions/</link>
+      <link>https://example.org/tags/directional-constructions/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/directional-constructions/</guid>
+      <guid>https://example.org/tags/directional-constructions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mandarin</title>
-      <link>https://aldair.com.mx/tags/mandarin/</link>
+      <link>https://example.org/tags/mandarin/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/mandarin/</guid>
+      <guid>https://example.org/tags/mandarin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>potencial</title>
-      <link>https://aldair.com.mx/tags/potencial/</link>
+      <link>https://example.org/tags/potencial/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/potencial/</guid>
+      <guid>https://example.org/tags/potencial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>real</title>
-      <link>https://aldair.com.mx/tags/real/</link>
+      <link>https://example.org/tags/real/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/real/</guid>
+      <guid>https://example.org/tags/real/</guid>
       <description></description>
     </item>
     
     <item>
       <title>simplificado</title>
-      <link>https://aldair.com.mx/tags/simplificado/</link>
+      <link>https://example.org/tags/simplificado/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/simplificado/</guid>
+      <guid>https://example.org/tags/simplificado/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tradicional</title>
-      <link>https://aldair.com.mx/tags/tradicional/</link>
+      <link>https://example.org/tags/tradicional/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/tradicional/</guid>
+      <guid>https://example.org/tags/tradicional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>v1v2</title>
-      <link>https://aldair.com.mx/tags/v1v2/</link>
+      <link>https://example.org/tags/v1v2/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/v1v2/</guid>
+      <guid>https://example.org/tags/v1v2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>v1v2v3</title>
-      <link>https://aldair.com.mx/tags/v1v2v3/</link>
+      <link>https://example.org/tags/v1v2v3/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/v1v2v3/</guid>
+      <guid>https://example.org/tags/v1v2v3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>como</title>
-      <link>https://aldair.com.mx/tags/como/</link>
+      <link>https://example.org/tags/como/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/como/</guid>
+      <guid>https://example.org/tags/como/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ejemplos</title>
-      <link>https://aldair.com.mx/tags/ejemplos/</link>
+      <link>https://example.org/tags/ejemplos/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/ejemplos/</guid>
+      <guid>https://example.org/tags/ejemplos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>usar</title>
-      <link>https://aldair.com.mx/tags/usar/</link>
+      <link>https://example.org/tags/usar/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/usar/</guid>
+      <guid>https://example.org/tags/usar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>xialai</title>
-      <link>https://aldair.com.mx/tags/xialai/</link>
+      <link>https://example.org/tags/xialai/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/xialai/</guid>
+      <guid>https://example.org/tags/xialai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>下來</title>
-      <link>https://aldair.com.mx/tags/%E4%B8%8B%E4%BE%86/</link>
+      <link>https://example.org/tags/%E4%B8%8B%E4%BE%86/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/%E4%B8%8B%E4%BE%86/</guid>
+      <guid>https://example.org/tags/%E4%B8%8B%E4%BE%86/</guid>
       <description></description>
     </item>
     
     <item>
       <title>下来</title>
-      <link>https://aldair.com.mx/tags/%E4%B8%8B%E6%9D%A5/</link>
+      <link>https://example.org/tags/%E4%B8%8B%E6%9D%A5/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/%E4%B8%8B%E6%9D%A5/</guid>
+      <guid>https://example.org/tags/%E4%B8%8B%E6%9D%A5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>calc</title>
-      <link>https://aldair.com.mx/tags/calc/</link>
+      <link>https://example.org/tags/calc/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/calc/</guid>
+      <guid>https://example.org/tags/calc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>condicionales</title>
-      <link>https://aldair.com.mx/tags/condicionales/</link>
+      <link>https://example.org/tags/condicionales/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/condicionales/</guid>
+      <guid>https://example.org/tags/condicionales/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dependientes</title>
-      <link>https://aldair.com.mx/tags/dependientes/</link>
+      <link>https://example.org/tags/dependientes/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/dependientes/</guid>
+      <guid>https://example.org/tags/dependientes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>desplegables</title>
-      <link>https://aldair.com.mx/tags/desplegables/</link>
+      <link>https://example.org/tags/desplegables/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/desplegables/</guid>
+      <guid>https://example.org/tags/desplegables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>excel</title>
-      <link>https://aldair.com.mx/tags/excel/</link>
+      <link>https://example.org/tags/excel/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/excel/</guid>
+      <guid>https://example.org/tags/excel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>libreoffice</title>
-      <link>https://aldair.com.mx/tags/libreoffice/</link>
+      <link>https://example.org/tags/libreoffice/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/libreoffice/</guid>
+      <guid>https://example.org/tags/libreoffice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>https://aldair.com.mx/tags/linux/</link>
+      <link>https://example.org/tags/linux/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/linux/</guid>
+      <guid>https://example.org/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>listas</title>
-      <link>https://aldair.com.mx/tags/listas/</link>
+      <link>https://example.org/tags/listas/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/listas/</guid>
+      <guid>https://example.org/tags/listas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>listas dependientes</title>
-      <link>https://aldair.com.mx/tags/listas-dependientes/</link>
+      <link>https://example.org/tags/listas-dependientes/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/listas-dependientes/</guid>
+      <guid>https://example.org/tags/listas-dependientes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>listas deplegables</title>
-      <link>https://aldair.com.mx/tags/listas-deplegables/</link>
+      <link>https://example.org/tags/listas-deplegables/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/listas-deplegables/</guid>
+      <guid>https://example.org/tags/listas-deplegables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>openoffice</title>
-      <link>https://aldair.com.mx/tags/openoffice/</link>
+      <link>https://example.org/tags/openoffice/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/openoffice/</guid>
+      <guid>https://example.org/tags/openoffice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coco</title>
-      <link>https://aldair.com.mx/tags/coco/</link>
+      <link>https://example.org/tags/coco/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/coco/</guid>
+      <guid>https://example.org/tags/coco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>doctor</title>
-      <link>https://aldair.com.mx/tags/doctor/</link>
+      <link>https://example.org/tags/doctor/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/doctor/</guid>
+      <guid>https://example.org/tags/doctor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hospital</title>
-      <link>https://aldair.com.mx/tags/hospital/</link>
+      <link>https://example.org/tags/hospital/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/hospital/</guid>
+      <guid>https://example.org/tags/hospital/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bocas</title>
-      <link>https://aldair.com.mx/tags/bocas/</link>
+      <link>https://example.org/tags/bocas/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/bocas/</guid>
+      <guid>https://example.org/tags/bocas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>covid</title>
-      <link>https://aldair.com.mx/tags/covid/</link>
+      <link>https://example.org/tags/covid/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/covid/</guid>
+      <guid>https://example.org/tags/covid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cubre</title>
-      <link>https://aldair.com.mx/tags/cubre/</link>
+      <link>https://example.org/tags/cubre/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/cubre/</guid>
+      <guid>https://example.org/tags/cubre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cubrebocas</title>
-      <link>https://aldair.com.mx/tags/cubrebocas/</link>
+      <link>https://example.org/tags/cubrebocas/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/cubrebocas/</guid>
+      <guid>https://example.org/tags/cubrebocas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mexico</title>
-      <link>https://aldair.com.mx/tags/mexico/</link>
+      <link>https://example.org/tags/mexico/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/mexico/</guid>
+      <guid>https://example.org/tags/mexico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pandemia</title>
-      <link>https://aldair.com.mx/tags/pandemia/</link>
+      <link>https://example.org/tags/pandemia/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/pandemia/</guid>
+      <guid>https://example.org/tags/pandemia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>panico</title>
-      <link>https://aldair.com.mx/tags/panico/</link>
+      <link>https://example.org/tags/panico/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/panico/</guid>
+      <guid>https://example.org/tags/panico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>apache</title>
-      <link>https://aldair.com.mx/tags/apache/</link>
+      <link>https://example.org/tags/apache/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/apache/</guid>
+      <guid>https://example.org/tags/apache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>instalar</title>
-      <link>https://aldair.com.mx/tags/instalar/</link>
+      <link>https://example.org/tags/instalar/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/instalar/</guid>
+      <guid>https://example.org/tags/instalar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>install</title>
-      <link>https://aldair.com.mx/tags/install/</link>
+      <link>https://example.org/tags/install/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/install/</guid>
+      <guid>https://example.org/tags/install/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lampp</title>
-      <link>https://aldair.com.mx/tags/lampp/</link>
+      <link>https://example.org/tags/lampp/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/lampp/</guid>
+      <guid>https://example.org/tags/lampp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>os</title>
-      <link>https://aldair.com.mx/tags/os/</link>
+      <link>https://example.org/tags/os/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/os/</guid>
+      <guid>https://example.org/tags/os/</guid>
       <description></description>
     </item>
     
     <item>
       <title>php</title>
-      <link>https://aldair.com.mx/tags/php/</link>
+      <link>https://example.org/tags/php/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/php/</guid>
+      <guid>https://example.org/tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>solus</title>
-      <link>https://aldair.com.mx/tags/solus/</link>
+      <link>https://example.org/tags/solus/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/solus/</guid>
+      <guid>https://example.org/tags/solus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>xampp</title>
-      <link>https://aldair.com.mx/tags/xampp/</link>
+      <link>https://example.org/tags/xampp/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/tags/xampp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>index</title>
-      <link>https://aldair.com.mx/tags/index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aldair.com.mx/tags/index/</guid>
+      <guid>https://example.org/tags/xampp/</guid>
       <description></description>
     </item>
     

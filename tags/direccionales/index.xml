@@ -2,18 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>direccionales on El blog de Aldair</title>
-    <link>https://aldair.com.mx/tags/direccionales/</link>
+    <link>https://example.org/tags/direccionales/</link>
     <description>Recent content in direccionales on El blog de Aldair</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Aldair</copyright>
-    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://aldair.com.mx/tags/direccionales/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-mx</language>
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/direccionales/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Complementos de dirección en mandarín</title>
-      <link>https://aldair.com.mx/2021/07/complementos-de-direcci%C3%B3n-en-mandar%C3%ADn/</link>
+      <link>https://example.org/2021/07/complementos-de-direcci%C3%B3n-en-mandar%C3%ADn/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aldair.com.mx/2021/07/complementos-de-direcci%C3%B3n-en-mandar%C3%ADn/</guid>
+      <guid>https://example.org/2021/07/complementos-de-direcci%C3%B3n-en-mandar%C3%ADn/</guid>
       <description>Si bien es cierto que verbos como 去 o 來 ya tienen incluida cierta noción de dirección, al usar verbos que hacen referencia a movimientos es necesario especificar si el movimiento se dirige o aleja de quien está hablando y hacia que dirección se da el movimiento. Todo esto se indica con verbos que dan lugar a las estructuras V1V2 y V1V2V3. Este tipo de expresiones son ajenas a hablantes de lenguas como el español, sin embargo, con practica las mismas se vuelven intuitivas.</description>
     </item>
     
